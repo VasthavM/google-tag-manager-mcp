@@ -1,0 +1,25 @@
+# Credentials and tokens - NEVER commit these
+credentials.json
+token.json
+~/.config/google-tag-manager-mcp/
+
+# Compiled binaries
+google-tag-manager-mcp
+google-tag-manager-mcp.exe
+*.exe
+
+# Go build artifacts
+*.test
+*.out
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+*:Zone.Identifier
